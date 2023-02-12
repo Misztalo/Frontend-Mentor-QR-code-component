@@ -48,12 +48,14 @@ p {
 .first {
     font-size: 23px;
     font-weight: 700;
+    color: var(--darkBlue-color);
 }
 
 .second {
     margin-top: 15px;
     margin-bottom: 30px;
     font-weight: 400;
+    color: var(--grayishBlue-color);
 }
 
 .attribution {
